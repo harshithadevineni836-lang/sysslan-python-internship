@@ -1,4 +1,4 @@
-# Check whether all numbers are unique
+# Verify whether all numbers are unique
 
 grid = [
     [1, 2, 3],

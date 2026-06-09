@@ -7,6 +7,7 @@ grid = [
 ]
 
 print("3x3 Number Grid:")
+
 for row in grid:
     for num in row:
         print(num, end=" ")
